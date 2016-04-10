@@ -11,6 +11,7 @@ Native JSON Classes like
 ##Project Classes
  1. MainActivity - The Activity Class of the Project which get JSON from Remote URL and represents the JSON Data into Views of Activity.
  2. MovieDetails - It's Simple Class which maps JSON Data to Class Members.
+
 ##Resources
 Resources Includes Layout file of the MainActivity(activity_main.xml) and other resources files such as strings.xml, stylex.xml, App Icon files etc.
 
