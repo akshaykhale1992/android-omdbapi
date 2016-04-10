@@ -13,6 +13,7 @@ Native JSON Classes like
  2. MovieDetails - It's Simple Class which maps JSON Data to Class Members.
 ##Resources
 Resources Includes Layout file of the MainActivity(activity_main.xml) and other resources files such as strings.xml, stylex.xml, App Icon files etc.
+
 ##Project Functionality
 User can enter the movie name in a textbox given, hit search movie button and based on movie name, fetching results from OMDB Api and showing results in Controls in the Activity.
 
